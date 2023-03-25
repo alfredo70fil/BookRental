@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/P2Moviles/static/css/main.e4578f07.css",
+    "main.js": "/P2Moviles/static/js/main.81bbb395.js",
+    "static/js/787.670053b8.chunk.js": "/P2Moviles/static/js/787.670053b8.chunk.js",
+    "static/media/TecNM.jpg": "/P2Moviles/static/media/TecNM.b5ce533abe2cfd32691b.jpg",
+    "index.html": "/P2Moviles/index.html",
+    "main.e4578f07.css.map": "/P2Moviles/static/css/main.e4578f07.css.map",
+    "main.81bbb395.js.map": "/P2Moviles/static/js/main.81bbb395.js.map",
+    "787.670053b8.chunk.js.map": "/P2Moviles/static/js/787.670053b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4578f07.css",
+    "static/js/main.81bbb395.js"
+  ]
+}
